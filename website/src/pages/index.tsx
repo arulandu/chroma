@@ -17,7 +17,7 @@ const Home: NextPage<any> = ({ }) => {
           <div className="h-screen flex flex-col justify-center items-center">
             <div className="">
               <h1 className="text-white text-3xl font-bold animate-bounce">Chroma<span className="font-thin"> | Re-thinking college consulting 🏫🌎</span></h1>
-              <p className="text-white text-xl font-light">By recent student admits to Harvard, Stanford, Oxford, etc.</p>
+              <p className="text-white text-xl font-light">By recent student admits to Harvard, Stanford, Princeton, Oxford etc.</p>
             </div>
           </div>
           <Footer />
